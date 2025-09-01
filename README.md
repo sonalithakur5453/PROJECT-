@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+or<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -25,4 +25,4 @@
 
   <script src="script.js"></script>
 </body>
-</html>  # PROJECT-on web development 
+</html>  # PROJECT-on web development or other future needs 
