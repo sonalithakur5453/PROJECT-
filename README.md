@@ -25,4 +25,4 @@
 
   <script src="script.js"></script>
 </body>
-</html>  # PROJECT-on web development 
+</html>  # PROJECT-on web development and many more future needs customized 
